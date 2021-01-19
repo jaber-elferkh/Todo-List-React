@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "The title of the book 1",
+      "body": "Lorem ipsum ...",
+      "author": "ahmed",
+      "id": 1
+    },
+    {
+      "title": "The title of the book 2",
+      "body": "Lorem ipsum ...",
+      "author": "ayoub",
+      "id": 2
+    },
+    {
+      "title": "The title of the book 3",
+      "body": "Lorem ipsum ...",
+      "author": "ahmed",
+      "id": 3
+    }
+  ]
+}
