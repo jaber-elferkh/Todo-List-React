@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+.navbar {
+  /* border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 1px solid whitesmoke;
+  padding: 20px;
+}
+
+.navbar h1 {
+  color: #00dd81;
+}
+
+.navbar > .links {
+  /* margin-left: auto; */
+}
+
+.navbar > .links > a {
+  /* border: 2px solid red; */
+  margin-left: 1rem;
+  text-decoration: none;
+  padding: 0.4rem;
+  color: rgb(43, 43, 43);
+  font-weight: 500;
+}
+
+.navbar > .links > a:hover {
+  color: #00dd81;
+}
