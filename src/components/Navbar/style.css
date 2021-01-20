@@ -11,19 +11,23 @@
   padding: 20px;
 }
 
+.navbar a {
+  text-decoration: none;
+}
+
 .navbar h1 {
   color: #00dd81;
 }
 
-.navbar > .links > a {
+.navbar .links a {
   /* border: 2px solid red; */
   margin-left: 1rem;
   text-decoration: none;
   padding: 0.4rem;
   color: rgb(43, 43, 43);
-  font-weight: 500;
+  font-weight: 400;
 }
 
-.navbar > .links > a:hover {
+.navbar .links a:hover {
   color: #00dd81;
 }

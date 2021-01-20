@@ -2,21 +2,33 @@
   "blogs": [
     {
       "title": "The title of the book 1",
-      "body": "Lorem ipsum ...",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta cumque veniam expedita dolorum, non animi illo nobis nesciunt. Culpa, impedit quae. Repudiandae, nihil dolorum? Ratione ut consequuntur quis id officia!",
       "author": "ahmed",
       "id": 1
     },
     {
       "title": "The title of the book 2",
-      "body": "Lorem ipsum ...",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta cumque veniam expedita dolorum, non animi illo nobis nesciunt. Culpa, impedit quae. Repudiandae, nihil dolorum? Ratione ut consequuntur quis id officia!",
       "author": "ayoub",
       "id": 2
     },
     {
       "title": "The title of the book 3",
-      "body": "Lorem ipsum ...",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta cumque veniam expedita dolorum, non animi illo nobis nesciunt. Culpa, impedit quae. Repudiandae, nihil dolorum? Ratione ut consequuntur quis id officia!",
       "author": "ahmed",
       "id": 3
+    },
+    {
+      "title": "the first blog",
+      "body": "Yeeeeepy",
+      "author": "ayoub",
+      "id": 4
+    },
+    {
+      "title": "a",
+      "body": "d",
+      "author": "",
+      "id": 5
     }
   ]
 }

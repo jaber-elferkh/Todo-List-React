@@ -1,0 +1,14 @@
+.blogDetails {
+  /* border: 2px solid whitesmoke; */
+}
+
+.blogDetails h2 {
+  color: #00dd81;
+  margin-bottom: 10px;
+}
+
+.blogDetails h4 {
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: gray;
+}

@@ -5,13 +5,17 @@
   border-bottom: 1px solid whitesmoke;
 }
 
-.blog-preview > h2 {
+.blog-preview h2 {
   font-size: 20px;
   color: #00dd81;
   margin-bottom: 8px;
 }
 
-.blog-preview > p {
+.blog-preview p {
   color: gray;
   font-weight: 300;
+}
+
+.blog-preview a {
+  text-decoration: none;
 }
