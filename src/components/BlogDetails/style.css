@@ -8,3 +8,15 @@
   margin-bottom: 10px;
   color: gray;
 }
+
+button {
+  background-color: #00dd81;
+  border: 0;
+  outline: 0;
+  padding: 8px 15px;
+  margin-top: 20px;
+  color: white;
+  font-weight: 500;
+  border-radius: 5px;
+  cursor: pointer;
+}

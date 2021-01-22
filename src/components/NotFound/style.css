@@ -1,0 +1,24 @@
+.notFound {
+  /* border: 2px solid red; */
+  text-align: center;
+  height: 70vh;
+  display: grid;
+  place-content: center;
+}
+
+.notFound h2 {
+  color: #00dd81;
+  margin: 5px;
+}
+
+.notFound p {
+  margin: 5px;
+}
+
+.notFound a {
+  text-decoration: none;
+  background-color: whitesmoke;
+  padding: 10px 20px;
+  color: black;
+  border-radius: 5px;
+}
